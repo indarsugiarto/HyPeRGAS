@@ -50,3 +50,28 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Directory lainnya
+**/build
+**/experiment
+**/images
+**/bin
+**/binaries
+#**/include
+**/lib
+**/lib64
+**/.idea
+**/refs
+**/local
+
+# Yang lain
+*.json
+*.pyc
+*.pro.user*
+*.aplx
+#run*
+*.jpg
+*.ras
+*.ra1
+*.swp
+
